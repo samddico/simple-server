@@ -7,6 +7,7 @@
 
 ### Running the application locally
 - Change directory to project directory
+
 - Build docker image with :
  `docker build -t simple-server:latest .`
 - Run the image  with :
